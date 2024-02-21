@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question_id": 1,
+        "question_text": "What is the capital of France?",
+        "long_answer": "The capital of France is Paris. It is known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral."
+      },
+      {
+        "question_id": 2,
+        "question_text": "Who wrote 'To Kill a Mockingbird'?",
+        "long_answer": "Harper Lee wrote 'To Kill a Mockingbird', which was published in 1960. The novel explores themes of racial injustice and moral growth in the American South."
+      },
+      {
+        "question_id": 3,
+        "question_text": "What is the boiling point of water in Celsius?",
+        "long_answer": "The boiling point of water in Celsius is 100 degrees."
+      },
+      {
+        "question_id": 4,
+        "question_text": "Who painted the Mona Lisa?",
+        "long_answer": "The Mona Lisa was painted by Leonardo da Vinci during the Renaissance period. It is one of the most famous artworks in the world."
+      },
+      {
+        "question_id": 5,
+        "question_text": "What is the formula for the area of a circle?",
+        "long_answer": "The formula for the area of a circle is πr^2, where r is the radius of the circle."
+      },
+      {
+        "question_id": 6,
+        "question_text": "Who discovered penicillin?",
+        "long_answer": "Penicillin was discovered by Alexander Fleming in 1928. It revolutionized medicine by introducing the first antibiotic."
+      },
+      {
+        "question_id": 7,
+        "question_text": "What is the largest planet in our solar system?",
+        "long_answer": "Jupiter is the largest planet in our solar system. It is a gas giant with a prominent red spot known as the Great Red Spot."
+      },
+      {
+        "question_id": 8,
+        "question_text": "Who was the first person to step on the Moon?",
+        "long_answer": "Neil Armstrong was the first person to step on the Moon on July 20, 1969, during the Apollo 11 mission."
+      },
+      {
+        "question_id": 9,
+        "question_text": "What is the chemical symbol for gold?",
+        "long_answer": "The chemical symbol for gold is Au, which comes from the Latin word 'aurum'."
+      },
+      {
+        "question_id": 10,
+        "question_text": "Who is the current President of the United States?",
+        "long_answer": "As of 2024, the current President of the United States is Joe Biden, who took office on January 20, 2021."
+      }
+    ]
+  }
+  
